@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class ExampleTestAlesia {
     @Test
-    void exampleTestAlesia() {
+    void exampleTestAlesiaConflict() {
         Assertions.assertTrue(2 >= 0);
 
     }
