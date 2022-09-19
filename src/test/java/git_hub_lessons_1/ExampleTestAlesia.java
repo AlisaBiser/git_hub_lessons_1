@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class ExampleTestAlesia {
     @Test
-    void exampleTestAlesia0() {
+    void exampleTestAlesiaBrezTezav0() {
         Assertions.assertTrue(2 > 1);
 
     }
