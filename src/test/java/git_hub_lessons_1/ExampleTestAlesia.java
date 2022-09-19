@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class ExampleTestAlesia {
     @Test
     void exampleTestAlesia() {
-        Assertions.assertTrue(2 > 1);
+        Assertions.assertTrue(2 >= 1);
 
     }
 }
