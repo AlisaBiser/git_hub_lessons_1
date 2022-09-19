@@ -12,5 +12,8 @@ public class ExampleTestAlesia {
     @Test
     void exampleTestAlesia1() {
         Assertions.assertTrue(3 > 1);
+    }@Test
+    void exampleTestAlesia2() {
+        Assertions.assertTrue(3 > 2);
     }
 }
